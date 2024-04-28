@@ -25,7 +25,7 @@ print(get_last_item([7, "String", False]))
 
 #TASK4
 def make_pair (a, b):
-    return [a, b]
+    return a, b
 
 print(make_pair(1, 2))
 print(make_pair(51, 21))
